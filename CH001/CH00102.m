@@ -1,0 +1,3 @@
+%%数据合集
+mytext = ['Hello'...
+    'world'];
